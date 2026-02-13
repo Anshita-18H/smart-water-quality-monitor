@@ -170,7 +170,7 @@ with tab3:
 
 # ---------------- FOOTER ----------------
 st.markdown("---")
-st.caption(f"🏆 Smart Indore Hackathon 2026 | Location: {location}")
+st.caption(f"Live water monitoring system | Location: {location}")
 
 # ---------------- AUTO REFRESH ----------------
 time.sleep(refresh_time)
